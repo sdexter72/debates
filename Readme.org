@@ -1,8 +1,10 @@
 * Liberating the Humanities: Toward an Ethics of Software
 
+#+BEGIN_VERSE
 Scott Dexter, Professor of Computer Science, Brooklyn College
 Erin Glass, Regina Mundi
 Evan Misshula, Rex Mundi
+#+END_VERSE
 
 The digital humanities rely, fundamentally, on software. And while
 digital humanists can be very explicit about the ethical positions
