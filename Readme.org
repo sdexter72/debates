@@ -3,7 +3,7 @@
 #+BEGIN_VERSE
 Scott Dexter, Professor of Computer Science, Brooklyn College
 Erin Glass, Regina Mundi
-Evan Misshula, Rex Mundi
+Evan Misshula, Manager of the Tech Talent Pipeline, Queens College
 #+END_VERSE
 
 The digital humanities rely, fundamentally, on software. And while
@@ -14,12 +14,12 @@ not simply irrelevant--to these concerns.
 
 Of course, some DHers do make software choices based on ethical
 considerations--for example, perceiving and acting on a direct
-connection between a felt scholarly imperative for sharing and transparency
-and the use (or production) of open-source software. Yet we
-believe there is a pressing need to move this kind of ethical
-deliberation from the narrow (neoliberal, popsicle) scope of
-individual choice to a broader discussion of software ethics within
-the digital humanities community.
+connection between a felt scholarly imperative for sharing. They may
+go to great effort to use or create 
+open-source software. Yet we believe there is a pressing need to move
+this kind of ethical deliberation from the narrow (neoliberal,
+popsicle) scope of individual choice to a broader discussion of
+software ethics within the digital humanities community.
 
 
   So, in this piece, we intend to offer both tools and
@@ -38,7 +38,7 @@ controversial positions:
 - a call for DH funders to be explicit about software ethics in their
   RFPs
 
-- a vision (and this is the debate-able bit) for a digital humanities,
+- a vision which others may wish to contest for a digital humanities,
   and an academy, which is fully conscious of the ethical implications
   of the software it both produces and relies on.
 
